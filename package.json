@@ -1,0 +1,26 @@
+{
+  "name": "blitz",
+  "version": "1.0.0",
+  "description": "Blitz Game",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel src/index.html",
+    "build": "parcel build src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skiv71/blitz.git"
+  },
+  "keywords": [
+    "Blitz",
+    "HTML5",
+    "Javascript",
+    "Game"
+  ],
+  "author": "Neil Duffy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/skiv71/blitz/issues"
+  },
+  "homepage": "https://github.com/skiv71/blitz#readme"
+}
