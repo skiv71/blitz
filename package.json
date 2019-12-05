@@ -4,6 +4,7 @@
   "description": "Blitz Game",
   "main": "index.js",
   "scripts": {
+    "untrack": "git rm -r --cached .",
     "dev": "parcel src/index.html",
     "build": "parcel build src/index.html"
   },
