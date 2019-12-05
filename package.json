@@ -22,5 +22,11 @@
   "bugs": {
     "url": "https://github.com/skiv71/blitz/issues"
   },
-  "homepage": "https://github.com/skiv71/blitz#readme"
+  "homepage": "https://github.com/skiv71/blitz#readme",
+  "dependencies": {
+    "@skivy71/utils": "^1.0.0"
+  },
+  "browserslist": [
+		"last 1 Chrome version"
+	]
 }
